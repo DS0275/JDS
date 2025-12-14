@@ -1,1 +1,15 @@
-﻿  UnityModeler.vcxproj -> C:\새 폴더\OpenGL_2025_2-main\UnityModeler\x64\Debug\UnityModeler.exe
+﻿  pch.cpp
+  CDlgGameObj.cpp
+  CDlgLight.cpp
+  MyScreen.cpp
+  ObjFile.cpp
+  OglCube.cpp
+  OglCylinder.cpp
+  OglLightMtl.cpp
+  OglScreen.cpp
+  OglSphere.cpp
+  OglTransform.cpp
+  UnityModeler.cpp
+  UnityModelerDlg.cpp
+  코드를 생성하고 있습니다...
+  UnityModeler.vcxproj -> C:\Users\USER\OneDrive\바탕 화면\학교\JDS_Github\JDS\UnityModeler\x64\Debug\UnityModeler.exe
